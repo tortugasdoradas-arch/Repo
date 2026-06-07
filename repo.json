@@ -62,10 +62,10 @@
       "license": "MIT",
       "category": "Traducciones",
       "binary": "none",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 36550,
+      "extracted": 45298,
       "updated": "20/05/2026",
-      "screens": 5
+      "screens": 4
     },
     {
       "name": "HORROR",
@@ -78,10 +78,10 @@
       "license": "MIT",
       "category": "Traducciones",
       "binary": "none",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 223,
+      "extracted": 497,
       "updated": "20/05/2026",
-      "screens": 3
+      "screens": 4
     },
     {
       "name": "OCTO",
@@ -94,10 +94,10 @@
       "license": "MIT",
       "category": "Traducciones",
       "binary": "none",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 1334,
+      "extracted": 5174,
       "updated": "20/05/2026",
-      "screens": 3
+      "screens": 5
     },
     {
       "name": "MGBA",
@@ -111,7 +111,7 @@
       "license": "MIT",
       "category": "Emuladores",
       "binary": "/switch/mGBA/mgba.nro",
-      "filesize": 524288,
+      "filesize": 3065,
       "extracted": 1048576,
       "updated": "20/05/2026",
       "screens": 5
@@ -128,10 +128,10 @@
       "license": "MIT",
       "category": "Emuladores",
       "binary": "/switch/scene_eshop/scene_eshop.nro",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 314388,
+      "extracted": 709296,
       "updated": "20/05/2026",
-      "screens": 3
+      "screens": 4
     },
     {
       "name": "MELON",
@@ -144,9 +144,9 @@
       "zip_url": "https://github.com/tortugasdoradas-arch/Repo/releases/download/Prueba/MELON.zip",
       "license": "MIT",
       "category": "Emuladores",
-      "binary": "/switch/scene_eshop/scene_eshop.nro",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "binary": "/switch/melonDS/melonDS.nro",
+      "filesize": 4157,
+      "extracted": 11052,
       "updated": "20/05/2026",
       "screens": 5
     },
@@ -162,8 +162,8 @@
       "license": "MIT",
       "category": "Emuladores",
       "binary": "/switch/scene_eshop/scene_eshop.nro",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 22696,
+      "extracted": 46994,
       "updated": "20/05/2026",
       "screens": 5
     },
@@ -179,8 +179,8 @@
       "license": "MIT",
       "category": "Emuladores",
       "binary": "/switch/scene_eshop/scene_eshop.nro",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 27523,
+      "extracted": 47157,
       "updated": "20/05/2026",
       "screens": 5
     },
@@ -196,8 +196,8 @@
       "license": "MIT",
       "category": "Ports",
       "binary": "/switch/scene_eshop/scene_eshop.nro",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 18062,
+      "extracted": 26339,
       "updated": "20/05/2026",
       "screens": 5
     },
@@ -213,8 +213,8 @@
       "license": "MIT",
       "category": "Ports",
       "binary": "/switch/scene_eshop/scene_eshop.nro",
-      "filesize": 524288,
-      "extracted": 1048576,
+      "filesize": 40099,
+      "extracted": 99998,
       "updated": "20/05/2026",
       "screens": 5
     }
