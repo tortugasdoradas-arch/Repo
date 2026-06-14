@@ -234,6 +234,23 @@
       "extracted": 1406336,
       "updated": "20/05/2026",
       "screens": 5
+    },
+    {
+      "name": "CHINA",
+      "title": "GTA Chinatown Wars",
+      "author": "NaGaa",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Grand Theft Auto: Chinatown Wars port de la version Android para la consola switch, es una de las joyas más infravaloradas y mecánicamente ricas de toda la franquicia de Rockstar Games. Lanzado originalmente para consolas portátiles y adaptado de forma excelente a los teléfonos móviles, llega ahora para la consola switch, el juego ofrece un regreso triunfal a la perspectiva cenital (desde arriba) con un lavado de cara moderno en alta definición y controles táctiles bien adaptados\n\nEl Protagonista: Tomas el control de Huang Lee, La Misión: Entregar la espada ancestral "Yu Jian" a su tío Kenny tras el asesinato de su padre, El Conflicto: Al aterrizar, Huang es emboscado, robado y dado por muerto, desatando una trama repleta de humor negro, traiciones y venganza, Formato Narrativo: Las cinemáticas tradicionales se sustituyen por viñetas estilo cómic, Apartado Gráfico: Mantiene el estilo cell-shading, Contenido: Ofrece más de 10 horas de campaña principal, decenas de guaridas para comprar, misiones secundarias de taxista/bombero y minijuegos de raspaditas de lotería\n\nNOTA:\nLa primera vez que abran el juego el mando no sera detectado\nCierren la aplicacion y abran de nuevo y ya detectara los mandos\nLos botones A y B estan invertidos para aceptar y cancelar, tenganlo pendiente\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\n, instala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/tortugasdoradas-arch/Repo/main",
+      "zip_url": "https://github.com/tortugasdoradas-arch/Repo/releases/download/Prueba/CHINA.zip",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/gtactw/gtactw_nx.nro",
+      "filesize": 557671,
+      "extracted": 957120,
+      "updated": "20/05/2026",
+      "screens": 5
     }
   ]
 }
